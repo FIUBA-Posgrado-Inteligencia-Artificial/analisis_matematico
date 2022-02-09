@@ -24,7 +24,7 @@ Clase | Temas | Lanzamiento<br />Entrega | Vencimiento<br />Entrega
 :---: | :---: | :---: | :---:
 Repaso 1 | <ul><li>Conjuntos</li><li>Relaciones</li><li>Funciones</li></ul>| | 
 Repaso 2 | <ul><li>Máximos/Mínimos</li><li>Matrices</li><li>NumPy</li></ul> | |
-1 | *TODO* | | 
+1 | *En proceso* | | 
 2 | *TODO* | |
 3 | *TODO* | |
 4 | *TODO* | |
