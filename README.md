@@ -23,7 +23,7 @@ Dentro de la carpeta *Clases* también se incluye el material relativo al curso 
 Todas las entregas deben ser enviadas a *vpastor@fi.uba.ar* con asunto "AMIA - Entrega **k**" donde **k** es el número de entrega, adjuntando el archivo PDF con la solución al ejercicio correspondiente. Por ejemplo, para la primera entrega se debe resolver y enviar en PDF la solución al ejercicio 4 de la guía 1, con asunto "AMIA - Entrega 1".
 
 * Entrega 1: 1.4
-* Entrega 2: *TBA* 
+* Entrega 2: 2.3 
 * Entrega 3: *TBA* 
 * Entrega 4: *TBA* 
 
