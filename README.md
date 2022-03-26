@@ -24,7 +24,7 @@ Todas las entregas deben ser enviadas a *vpastor@fi.uba.ar* con asunto "AMIA - E
 
 * Entrega 1: 1.4
 * Entrega 2: 2.3 
-* Entrega 3: *TBA* 
+* Entrega 3: 3.2
 * Entrega 4: *TBA* 
 
 ## Cronograma
