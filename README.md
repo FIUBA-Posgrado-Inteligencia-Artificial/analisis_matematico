@@ -40,4 +40,8 @@ Repaso 2 | <ul><li>Máximos/mínimos</li><li>Matrices</li><li>NumPy</li></ul> | 
 7 | <ul><li>Opt. con restricciones</li><li>Opt. convexa y no convexa</li></ul> | | 4
 8 | Exposición TP | | TP
 
+## Forma de Evaluación
+
+Les recordamos que la nota es un promedio ponderado entre las 5 notas parciales, las cuales consisten en las 4 entregas y la defensa del TP.
+
 
