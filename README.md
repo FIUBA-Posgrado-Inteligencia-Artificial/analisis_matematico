@@ -20,10 +20,10 @@ Dentro de la carpeta *Clases* también se incluye el material relativo al curso 
 
 ## Ejercicios a entregar
 
-* Entrega 1: ver ejercicio para entregar en carpeta de guía 1
-* Entrega 2: 2.3 
-* Entrega 3: 3.2
-* Entrega 4: 4.5 
+* Entrega 1: *a anunciar*
+* Entrega 2: *a anunciar*
+* Entrega 3: *a anunciar*
+* Entrega 4: *a anunciar* 
 
 ## Cronograma
 
@@ -43,5 +43,3 @@ Repaso 2 | <ul><li>Máximos/mínimos</li><li>Matrices</li><li>NumPy</li></ul> | 
 ## Forma de Evaluación
 
 Les recordamos que la nota es un promedio ponderado entre las 5 notas parciales, las cuales consisten en las 4 entregas y la defensa del TP.
-
-
