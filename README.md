@@ -20,7 +20,7 @@ Dentro de la carpeta *Clases* también se incluye el material relativo al curso 
 
 ## Ejercicios a entregar
 
-* Entrega 1: *a anunciar*
+* Entrega 1: 1.3
 * Entrega 2: *a anunciar*
 * Entrega 3: *a anunciar*
 * Entrega 4: *a anunciar* 
