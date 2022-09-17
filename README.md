@@ -22,7 +22,7 @@ Dentro de la carpeta *Clases* también se incluye el material relativo al curso 
 
 * Entrega 1: 1.3
 * Entrega 2: 2.3
-* Entrega 3: *a anunciar*
+* Entrega 3: 3.2
 * Entrega 4: *a anunciar* 
 
 ## Cronograma
