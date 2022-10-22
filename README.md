@@ -20,10 +20,10 @@ Dentro de la carpeta *Clases* también se incluye el material relativo al curso 
 
 ## Ejercicios a entregar
 
-* Entrega 1: 1.3
-* Entrega 2: 2.3
-* Entrega 3: 3.2
-* Entrega 4: 4.5 
+* Entrega 1: Ejercicio 3 de la guía 1
+* Entrega 2: Ejercicio 3 de la guía 2
+* Entrega 3: Ejercicio 2 de la guía 3
+* Entrega 4: Ejercicio 5 de la guía 4 
 
 ## Cronograma
 
