@@ -23,7 +23,7 @@ Dentro de la carpeta *Clases* también se incluye el material relativo al curso 
 ## Ejercicios a entregar
 
 * Entrega 1: Ejercicio 7 - Guía 1
-* Entrega 2: *TBA*
+* Entrega 2: Ejercicio 5 - Guía 2
 
 La entrega se realiza subiendo a la carpeta compartida asignada los archivos correspondientes, los cuales deben estar en formato `.pdf` (matemática) o `.py` (código). Otros formatos no serán considerados como entrega válida.
 
